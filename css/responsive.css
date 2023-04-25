@@ -1,0 +1,1085 @@
+@media (max-width:1200px){
+    .client-link .link-img-1,
+    .client-link .link-img-2,
+    .client-link .link-img-3,
+    .client-link .link-img-2{
+        width: 20%;
+        height: auto;
+        margin-right: 50px;
+    }
+    .client-link .link-img-4{
+        width: 18%;
+        height: auto;
+    }
+    /* our-client end */
+    .business-help .back-img-2 .bImg-3{
+        position: absolute;
+        width: 190%;
+        height: auto;
+        top:280px;
+        left:-180px;
+        z-index: -1;
+    }
+    .business-help .back-img-2 .bImg-4{
+        width: 100px;
+        height: 100px;
+        top:740px;
+    }
+    .fore-help img{
+        width: 70px;
+        height: 70px;
+    }
+    .fore-help h5{
+        font-size: 22px;
+        line-height: 25px;
+        margin-bottom:30px;
+    }
+    .fore-help span{
+        font-size: 14px;
+        line-height: 120%;
+        padding:0 20px;
+    }
+    .box-img,
+    .empty-img,
+    .code-img,
+    .chart-img{
+        width:100px;
+        height:100px;
+    }
+    .bIdea{
+        width: 250px;
+        height: 379px;
+        top:95px;
+        left:15%
+    }
+    .fPlanning{
+        width: 250px;
+        height: 379px;
+        top:25px;
+        right:-24%;
+    }
+    .dWebsite{
+        width: 250px;
+        height: 379px;
+        top:88%;
+        left:15%;
+    }
+    .mAnalysis{
+        width: 250px;
+        height: 379px;
+    }
+    /* our-client end */
+    .fa-play{
+        position: absolute;
+        top: 31%;
+        left: -72%;
+        font-size: 16px;
+        color: #FFF;
+    }
+    /* digital-product end */
+    .client img{
+        width: 349px;
+        height: 349px;
+    }
+    .clients img{
+        width: 318px;
+        height: 325px;
+    }
+    .clients .back-img-2 img {
+        width: 160px;
+        height: 160px;
+        position: absolute;
+        top: -226px;
+        left: 19px;
+        z-index: -1;
+    }
+    .clientMiddle h5{
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+        margin-top:50px
+    }
+    /* client-say end */
+    .newsletter .inputBx button{
+        top: 50%;
+        right: -115px;
+    }
+    .newsletter .back-img .bImg-1 img {
+        width: 165px;
+        height: 150px;
+        position: absolute;
+        top: 30px;
+        left: -62px;
+    }
+    .newsletter .back-img .bImg-2 img{
+        width: 1018px;
+        height: 254px;
+        position: absolute;
+        top: -95px;
+        left: -40px;
+        right: 0;
+    }
+    .newsletter .back-img .bImg-3 img {
+        width: 450px;
+        height: 252px;
+        position: absolute;
+        top: -95px;
+        right: -40px;
+    }
+    .newsletter .back-img .bImg-4 img {
+        width: 153px;
+        height: 122px;
+        position: absolute;
+        top: -150px;
+        right: -75px;
+        z-index: -1;
+    }
+    .newsletter h4 {
+        font-size: 35px;
+        line-height: 40px;
+        color: #000000;
+    }
+    .newsletter span {
+        font-size: 16px;
+        line-height: 160%;
+        color: #757575;
+    }
+    .newsletter .inputBx input {
+        padding: 25px 238px 25px 30px;
+        background: #FFFFFF;
+        box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+        border-radius: 60px;
+    }
+    .newsletter .inputBx button {
+        padding: 15px 30px;
+        transform: translate(-74%, -50%);
+        font-size: 14px;
+    }
+}
+
+@media (max-width:991px){
+    nav .menu ul{
+        display:none;
+        width:200px;
+        height:100vh;
+        background:#000;
+        position:absolute;
+        top:0;
+        right:0;
+        z-index: 222;
+    }
+    nav .menu ul li{
+        padding:20px 0;
+    }
+    nav .menu ul li a{
+        color:#fff;
+    }
+    .menu .menu-icon{
+        display:flex;
+        justify-content: end;
+    }
+    .menu .menu-icon .fa-bars{
+        color:#000;
+    }
+    .menu .menu-icon .fa-times{
+        position: absolute;
+        z-index: 222;
+        top:20px;
+        right:20px;
+        color:#fff;
+    }
+    .menu .menu-icon .fa-times:hover{
+        color:red
+    }
+    /* nav-area end */
+    
+    .hero-area .back-img-1 .bImg-1{
+        width: 30%;
+        left: 8%;
+        top: 38%;
+    }
+    .hero-area .back-img-2 .bImg-2{
+        width: 20%;
+        top:-150px;
+        left: -3%;
+    }
+    .hero-area .back-img-2 .bImg-3{
+        width: 20%;
+        bottom:-18%;
+        left: 80%;
+    }
+    .hero-area-img img{
+        width: 80%;
+        height: auto;
+        margin:150px auto 0;
+    }
+    .hero-area a{
+        padding: 15px 30px;
+    }
+    /* hero-area end */
+    .our-client{
+        position:relative
+    }
+    .text-link{
+        width:50%;
+        margin: auto;
+    }
+    .client-link{
+        display: flex;
+        position: absolute;
+        top:130%;
+        left:0;
+        right:0;
+    }
+    .client-link .link-img-1,
+    .client-link .link-img-2,
+    .client-link .link-img-3,
+    .client-link .link-img-2{
+        width: 13%;
+        height: auto;
+        margin-right: 50px;
+    }
+    .client-link .link-img-4{
+        width: 11%;
+        height: auto;
+    }
+    /* our-client end */
+    .business-help{
+        width: 100%;
+        height: 970px;
+    }
+    .business-help .back-img-1 .bImg-1{
+        width: 50%;
+        bottom:20px;
+        left: -60px;
+    }
+    .business-help .back-img-1 .bImg-2{
+        position: absolute;
+        width: 28%;
+        top:-450px;
+        left:-10%;
+    }
+    .business-help .back-img-2 .bImg-3{
+        position: absolute;
+        width: 100%;
+        height: auto;
+        top:270px;
+        left:50px;
+        z-index: -1;
+    }
+    .business-help .back-img-2 .bImg-4{
+        position: absolute;
+        width: 120px;
+        height: 120px;
+        top:630px;
+        right:-20px;
+        z-index: -33;
+    }
+    .business-help p{
+        width:70%;
+        margin-bottom:200px;
+    }
+    .box-img,
+    .empty-img,
+    .code-img,
+    .chart-img{
+        width:100px;
+        height:100px;
+    }
+    .bIdea{
+        width: 220px;
+        height: 340px;
+        padding:0 0 30px 0;
+        top:0;
+        left:0
+    }
+    .fPlanning{
+        width: 220px;
+        height: 340px;
+        padding:0 0 30px 0;
+        top:0;
+        left:60%;
+    }
+    .dWebsite{
+        width: 220px;
+        height: 340px;
+        padding:0 0 30px 0;
+        top:400px;
+        left:0;
+    }
+    .mAnalysis{
+        width: 220px;
+        height: 340px;
+        padding:0 0 30px 0;
+        top:400px;
+        left:60%;
+    }
+    /* business-help end */
+    .great-product{
+        margin-top:600px;
+    }
+    .great-product .veno{
+        width: 550px;
+        height: 372px;
+        margin: auto;
+    }
+    .great-icon{
+        top: 36.5%;
+        left: 267px;
+        transform: translate(50%);
+    }
+    .great-product .back-img-1 img{
+        top:-150px;
+        left:486px;
+        z-index: -1;
+    }
+    .fa-play{
+        position: absolute;
+        top: -55%;
+        left: 47%;
+        font-size: 14px;
+        color: #fff;
+    }
+    /* client-say */
+    .client img{
+        width: 389px;
+        height: 389px;
+        margin:auto;
+    }
+    .client .back-img-1 .bImg-1{
+        width: 120px;
+        height: 120px;
+        position: absolute;
+        top:-177px;
+        left:148px;
+        z-index: -1;
+    }
+    .client .back-img-1 .bImg-2{
+        width: 175px;
+        height: 120px;
+        position: absolute;
+        top: -394px;
+        right: 168px;
+        z-index: -1;
+    }
+    .owl-dots{
+        position: absolute;
+        top: 185px;
+        left: 280px;
+    }
+    .clients img{
+        width: 348px;
+        height: 355px;
+        margin:auto
+    }
+    .clients .back-img-2 img {
+        width: 184px;
+        height: 184px;
+        position: absolute;
+        top: -248px;
+        left: 202px;
+        z-index: -1;
+    }
+    /* client-say end */
+    .newsletter .back-img .bImg-1 img {
+        top: 97px;
+        left: -62px;
+    }
+    .newsletter .back-img .bImg-2 img {
+        width: 778px;
+        height: 254px;
+        position: absolute;
+        top: -30px;
+        left: -40px;
+        right: 0;
+    }
+    .newsletter .back-img .bImg-3 img {
+        top: -28px;
+        right: -40px;
+    }
+    .newsletter .back-img .bImg-4 img {
+        width: 153px;
+        height: 122px;
+        position: absolute;
+        top: -82px;
+        right: -75px;
+        z-index: -1;
+    }
+    .newsNew{
+        width:80%;
+        margin: auto;
+    }
+    .newsletter .inputBx button {
+        padding: 15px 30px;
+        transform: translate(-125%, -50%);
+        font-size: 14px;
+    }
+    .newsletter span{
+        display:block;
+        margin-bottom:40px;
+    }
+    /* nwesletter end */
+    footer span{
+        margin-bottom:30px;
+        display: block;
+    }
+    footer h5{
+        margin-bottom:20px;
+    }
+    footer .last{
+        margin-bottom: 30px !important;
+    }
+
+}
+
+@media (max-width:768px){
+    nav .menu ul li a{
+        font-size: 14px;
+    }
+    /* nav-area end */
+    .hero-area .back-img-1 .bImg-1{
+        width: 30%;
+        left: 10%;
+        top: 42%;
+    }
+    /* hero-area end */
+    .business-help .back-img-1 .bImg-1{
+        bottom:50px;
+        left: 0;
+    }
+    .business-help .back-img-1 .bImg-2{
+        width: 28%;
+        top:-400px;
+        left:-3%;
+    }
+    .business-help .back-img-2 .bImg-3{
+        top:270px;
+        left:0;
+    }
+    .business-help .back-img-2 .bImg-4{
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        top:550px;
+        right:180px;
+        z-index: -33;
+    }
+    .business-help{
+        width:95%;
+        margin:auto
+    }
+    .business-help h1{
+        font-size: 35px;
+        line-height: 43px;
+        margin:150px 0 30px;
+    }
+    .business-help p{
+        font-size: 14px;
+    }
+    .fore-help h5{
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom:20px;
+    }
+    .fore-help span{
+        font-size: 13px;
+        line-height: 120%;
+        padding:0;
+    }
+    /* business-help end */
+    .great-product .veno{
+        width: 500px;
+        height: 322px;
+        margin: auto;
+    }
+    .great-product .back-img-1 img{
+        width: 100px;
+        height: 100px;
+        display: block;
+        position:absolute;
+        top:-150px;
+        left:415px;
+        z-index: -1;
+    }
+    .great-icon{
+        top: 37.5%;
+        left: 188px;
+        transform: translate(50%);
+        width: 50px;
+        height: 50px;
+    }
+    .great-product .back-img-1 img{
+        top: -111px;
+        left: 395px;
+        z-index: -1;
+    }
+    .fa-play{
+        position: absolute;
+        top: -44%;
+        left: 46%;
+        font-size: 10px;
+        color: #fff;
+    }
+    /* great-product end */
+    .client .back-img-1 .bImg-1 {
+        width: 120px;
+        height: 120px;
+        position: absolute;
+        top: -177px;
+        left: 80px;
+        z-index: -1;
+    }
+    .client .back-img-1 .bImg-2 {
+        width: 175px;
+        height: 120px;
+        position: absolute;
+        top: -394px;
+        right: 80px;
+        z-index: -1;
+    }
+    .owl-dots{
+        position: absolute;
+        top: 185px;
+        left: 190px;
+    }
+    .clients .back-img-2 img {
+        width: 184px;
+        height: 184px;
+        position: absolute;
+        top: -248px;
+        left: 105px;
+        z-index: -1;
+    }
+    /* client-say end */
+    .newsletter .back-img .bImg-2 img {
+        width: 595px;
+        height: 170px;
+        position: absolute;
+        top: -30px;
+        left: -40px;
+        right: 0;
+    }
+    .newsletter .back-img .bImg-3 img {
+        width: 330px;
+        height: 170px;
+        position: absolute;
+        top: -28px;
+        right: -40px;
+    }
+    .newsletter .inputBx input {
+        padding: 20px 190px 20px 25px;
+    }
+    .newsletter .inputBx input::placeholder{
+        font-size:14px;
+    }
+    .newsletter .inputBx button {
+        padding: 10px 20px;
+        transform: translate(-77%, -50%);
+        font-size: 13px;
+    }
+    .newsletter .back-img .bImg-1 img {
+        width: 130px;
+        height: 125px;
+        position: absolute;
+        top: 35px;
+        left: -62px;
+    }
+    /* aikhane */
+    .newsletter h4 > b{
+        color:#fff;
+    }
+    .newsletter span{
+        color:#000;
+    }
+    .newsletter span > b{
+        color:#fff;
+    }
+    /* aikhane 768 pore b tag jog korte hobe */
+}
+
+@media (max-width:680px){
+    .fa-play {
+        position: absolute;
+        top: -48%;
+        left: 46%;
+        font-size: 10px;
+        color: #fff;
+    }
+    .great-product h1{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .great-product p{
+        font-size: 14px;
+        line-height: 160%;
+        color: #565656;
+        margin-bottom:100px
+    }
+    .great-product .back-img-2 img {
+        width: 155px;
+        height: 155px;
+        display: block;
+        position: absolute;
+        top: 60px;
+        left: -2%;
+        z-index: -1;
+    }
+    /* great-product end */
+    .client-say h2{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .client-say p{
+        font-size: 15px;
+        margin-bottom:90px;
+    }
+}
+
+@media (max-width:580px){
+    nav .logo img{
+        width:90px;
+        height:auto;
+    }
+    /* nav-area end */
+    .hero-area{
+        width:95%;
+        margin: auto;
+    }
+    .hero-area h1{
+        font-size: 35px;
+    }
+    .hero-area span{
+        font-size: 14px;
+        width:95%;
+        margin: 0 auto 30px;
+    }
+    .hero-area a{
+        padding: 12px 25px;
+        border-radius: 60px;
+    }
+    /* hero-area end */
+    .client-link .link-img-1,
+    .client-link .link-img-2,
+    .client-link .link-img-3{
+        width: 14%;
+        height: auto;
+        margin-right: 30px;
+    }
+    .client-text h3{
+        font-size: 35px;
+    }
+    .client-text p{
+        font-size: 14px;
+        width:100%;
+    }
+    /* our-client end */
+    .business-help .back-img-1 .bImg-1{
+        bottom:20px;
+        left: 0;
+    }
+    .business-help .back-img-1 .bImg-2{
+        width: 28%;
+        top:-370px;
+        left:10%;
+    }
+    .business-help .back-img-2 .bImg-3{
+        top:0;
+        left:0;
+    }
+    .business-help .back-img-2 .bImg-4{
+        position: absolute;
+        width: 15%;
+        height: auto;
+        top:-40px;
+        left:0;
+        z-index: -11;
+    }
+    .business-help h1{
+        font-size: 30px;
+        line-height: 35px;
+        width:60%;
+        margin:150px auto 30px;
+    }
+    .business-help p{
+        width:60%;
+        margin: 0 auto 150px
+    }
+    .fore-help img{
+        width: 60px;
+        height: 60px;
+    }
+    .fore-help h5{
+        font-size: 18px;
+        margin-bottom:15px;
+    }
+    .fore-help span{
+        font-size: 12.5px;
+        line-height: 120%;
+    }
+    .bIdea{
+        width: 200px;
+        height: 300px;
+        padding:0 0 10px 0;
+        top:0;
+        left:25%;
+    }
+    .fPlanning{
+        width: 200px;
+        height: 300px;
+        padding:0 0 10px 0;
+        top:320px;
+        left:25%;
+    }
+    .dWebsite{
+        width: 200px;
+        height: 300px;
+        padding:0 0 10px 0;
+        top:640px;
+        left:25%;
+    }
+    .mAnalysis{
+        width: 200px;
+        height: 300px;
+        padding:0 0 10px 0;
+        top:960px;
+        left:25%;
+    }
+    .box-img,
+    .empty-img,
+    .code-img,
+    .chart-img{
+        width:80px;
+        height:80px;
+    }
+    /* business-help end */
+    .great-product {
+        margin-top: 850px;
+    }
+    .great-product .veno {
+        width: 90%;
+        height: auto;
+        margin: auto;
+    }
+    .great-icon {
+        top: 37.5%;
+        left: 195px;
+        transform: translate(50%);
+        width: 48px;
+        height: 48px;
+    }
+    .fa-play {
+        position: absolute;
+        top: -50%;
+        left: 47%;
+        font-size: 11px;
+        color: #fff;
+    }
+    .great-product .back-img-1 img {
+        width: 90px;
+        height: 90px;
+        display: block;
+        position: absolute;
+        top: -105px;
+        left: 390px;
+        z-index: -1;
+    }
+    .great-product .back-img-2 img {
+        width: 129px;
+        height: 138px;
+        display: block;
+        position: absolute;
+        top: 73px;
+        left: 1%;
+        z-index: -1;
+    }
+    /* great-product end */
+    .owlNew{
+        width:90%;
+        margin: auto;
+    }
+    .client img {
+        width: 349px;
+        height: 349px;
+        margin: auto;
+    }
+    .client .back-img-1 .bImg-1 {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: -154px;
+        left: 115px;
+        z-index: -1;
+    }
+    .client .back-img-1 .bImg-2 {
+        width: 140px;
+        height: 95px;
+        position: absolute;
+        top: -359px;
+        right: 102px;
+        z-index: -1;
+    }
+    .owl-dots {
+        position: absolute;
+        top: 185px;
+        left: 180px;
+    }
+    .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+        width:8px;
+        height:8px;
+        margin-right:15px
+    }
+}
+
+@media (max-width:480px){
+    .hero-area h1{
+        font-size: 30px;
+    }
+    .hero-area span{
+        font-size: 13px;
+    }
+    .hero-area a{
+        padding: 10px 20px;
+        border-radius: 50px;
+    }
+    /* hero-area end */
+    .text-link{
+        width:70%;
+        margin: auto;
+    }
+    .client-text h3{
+        font-size: 30px;
+    }
+    .client-text p{
+        font-size: 13px;
+    }
+    /* our-client end */
+    .business-help .back-img-1 .bImg-2{
+        width: 28%;
+        top:-320px;
+        left:0;
+    }
+    .business-help h1{
+        width:90%;
+        margin:110px auto 30px;
+    }
+    .business-help p{
+        width:90%;
+    }
+    .bIdea{
+        left:20%;
+    }
+    .fPlanning{
+        left:20%;
+    }
+    .dWebsite{
+        left:20%;
+    }
+    .mAnalysis{
+        left:20%;
+    }
+    /* business-help */
+    .great-product .back-img-1 img {
+        width: 85px;
+        height: 85px;
+        display: block;
+        position: absolute;
+        top: -104px;
+        left: 334px;
+        z-index: -1;
+    }
+    .great-icon {
+        top: 37.5%;
+        left: 166px;
+        transform: translate(50%);
+        width: 45px;
+        height: 45px;
+    }
+    .fa-play {
+        position: absolute;
+        top: -166px;
+        left: 219px;
+        font-size: 13px;
+        color: #fff;
+    }
+    .great-product h1 {
+        font-size: 30px;
+        line-height: 40px;
+        width: 90%;
+        margin: 100px auto 10px;
+    }
+    .great-product p {
+        font-size: 14px;
+        line-height: 160%;
+        color: #565656;
+        width: 90%;
+        margin: 0 auto 100px;
+    }
+    .great-product .back-img-2 img {
+        width: 116px;
+        height: 112px;
+        display: block;
+        position: absolute;
+        top: 98px;
+        left: 4%;
+        z-index: -1;
+    }
+    /* great-product end */
+    .client img {
+        width: 329px;
+        height: 329px;
+        margin: auto;
+    }
+    .client .back-img-1 .bImg-1 {
+        width: 95px;
+        height: 95px;
+        position: absolute;
+        top: -138px;
+        left: 80px;
+        z-index: -1;
+    }
+    .client .back-img-1 .bImg-2 {
+        width: 125px;
+        height: 75px;
+        position: absolute;
+        top: -341px;
+        right: 62px;
+        z-index: -1;
+    }
+    .owl-dots {
+        position: absolute;
+        top: 185px;
+        left: 146px;
+    }
+    .clients img {
+        width: 288px;
+        height: 304px;
+        margin: auto;
+    }
+    .clients .back-img-2 img {
+        width: 154px;
+        height: 154px;
+        position: absolute;
+        top: -210px;
+        left: 97px;
+        z-index: -1;
+    }
+    .client-say h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .client-say p {
+        font-size: 14px;
+        margin-bottom: 80px;
+    }
+    .client img {
+        width: 309px;
+        height: 309px;
+        margin: auto;
+    }
+    .client .back-img-1 .bImg-1 {
+        width: 90px;
+        height: 90px;
+        position: absolute;
+        top: -139px;
+        left: 15px;
+        z-index: -1;
+    }
+    .client .back-img-1 .bImg-2 {
+        width: 113px;
+        height: 68px;
+        position: absolute;
+        top: -316px;
+        right: 4px;
+        z-index: -1;
+    }
+    .owl-dots {
+        position: absolute;
+        top: 210px;
+        left: 94px;
+    }
+    .clients img {
+        width: 256px;
+        height: 274px;
+        margin: auto;
+    }
+    .clients .back-img-2 img {
+        width: 134px;
+        height: 134px;
+        position: absolute;
+        top: -190px;
+        left: 43px;
+        z-index: -1;
+    }
+}
+
+@media (max-width:380px){
+    .great-product .veno {
+        width: 100%;
+        height: auto;
+    }
+    .great-icon {
+        top: 37.5%;
+        left: 128px;
+        transform: translate(50%);
+        width: 40px;
+        height: 40px;
+    }
+    .fa-play {
+        position: absolute;
+        top: -147px;
+        left: 176px;
+        font-size: 12px;
+        color: #fff;
+    }
+    .great-product .back-img-1 img {
+        width: 80px;
+        height: 80px;
+        display: block;
+        position: absolute;
+        top: -92px;
+        left: 267px;
+        z-index: -1;
+    }
+    .great-product h1 {
+        width: 100%;
+    }
+    .great-product p {
+        font-size: 12px;
+        width:100%;
+    }
+    .great-product .back-img-2 img {
+        top: 98px;
+        left: 2%;
+    }
+    /* great-product end */
+    .client-say h2 {
+        width:80%;
+        margin: 0 auto 20px;
+    }
+}
+
+@media (max-width:320px){
+    .great-icon {
+        top: 36.5%;
+        left: 103px;
+        transform: translate(50%);
+        width: 35px;
+        height: 35px;
+    }
+    .fa-play {
+        position: absolute;
+        top: -123px;
+        left: 148px;
+        font-size: 10px;
+        color: #fff;
+    }
+    .great-product .back-img-1 img {
+        width: 75px;
+        height: 75px;
+        display: block;
+        position: absolute;
+        top: -80px;
+        left: 213px;
+        z-index: -1;
+    }
+}
